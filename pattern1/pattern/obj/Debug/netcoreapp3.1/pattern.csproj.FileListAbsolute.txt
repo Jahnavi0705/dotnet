@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\bin\Debug\netcoreapp3.1\pattern.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern\pattern\obj\Debug\netcoreapp3.1\pattern.genruntimeconfig.cache

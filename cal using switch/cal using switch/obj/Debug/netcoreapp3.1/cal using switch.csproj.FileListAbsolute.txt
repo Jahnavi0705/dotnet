@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\bin\Debug\netcoreapp3.1\cal using switch.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\bin\Debug\netcoreapp3.1\cal using switch.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\bin\Debug\netcoreapp3.1\cal using switch.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\bin\Debug\netcoreapp3.1\cal using switch.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\bin\Debug\netcoreapp3.1\cal using switch.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\bin\Debug\netcoreapp3.1\cal using switch.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\obj\Debug\netcoreapp3.1\cal using switch.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\obj\Debug\netcoreapp3.1\cal using switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\obj\Debug\netcoreapp3.1\cal using switch.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\obj\Debug\netcoreapp3.1\cal using switch.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\obj\Debug\netcoreapp3.1\cal using switch.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\obj\Debug\netcoreapp3.1\cal using switch.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\obj\Debug\netcoreapp3.1\cal using switch.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using switch\cal using switch\obj\Debug\netcoreapp3.1\cal using switch.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\bin\Debug\netcoreapp3.1\cal using function.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\bin\Debug\netcoreapp3.1\cal using function.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\bin\Debug\netcoreapp3.1\cal using function.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\bin\Debug\netcoreapp3.1\cal using function.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\bin\Debug\netcoreapp3.1\cal using function.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\bin\Debug\netcoreapp3.1\cal using function.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\obj\Debug\netcoreapp3.1\cal using function.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\obj\Debug\netcoreapp3.1\cal using function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\obj\Debug\netcoreapp3.1\cal using function.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\obj\Debug\netcoreapp3.1\cal using function.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\obj\Debug\netcoreapp3.1\cal using function.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\obj\Debug\netcoreapp3.1\cal using function.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\obj\Debug\netcoreapp3.1\cal using function.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\cal using function\cal using function\obj\Debug\netcoreapp3.1\cal using function.genruntimeconfig.cache

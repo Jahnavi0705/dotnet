@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\bin\Debug\netcoreapp3.1\pattern 3.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\bin\Debug\netcoreapp3.1\pattern 3.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\bin\Debug\netcoreapp3.1\pattern 3.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\bin\Debug\netcoreapp3.1\pattern 3.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\bin\Debug\netcoreapp3.1\pattern 3.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\bin\Debug\netcoreapp3.1\pattern 3.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\obj\Debug\netcoreapp3.1\pattern 3.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\obj\Debug\netcoreapp3.1\pattern 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\obj\Debug\netcoreapp3.1\pattern 3.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\obj\Debug\netcoreapp3.1\pattern 3.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\obj\Debug\netcoreapp3.1\pattern 3.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\obj\Debug\netcoreapp3.1\pattern 3.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\obj\Debug\netcoreapp3.1\pattern 3.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\pattern 3\pattern 3\obj\Debug\netcoreapp3.1\pattern 3.genruntimeconfig.cache
