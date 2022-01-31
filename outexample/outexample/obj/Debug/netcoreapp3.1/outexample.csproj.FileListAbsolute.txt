@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\bin\Debug\netcoreapp3.1\outexample.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\bin\Debug\netcoreapp3.1\outexample.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\bin\Debug\netcoreapp3.1\outexample.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\bin\Debug\netcoreapp3.1\outexample.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\bin\Debug\netcoreapp3.1\outexample.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\bin\Debug\netcoreapp3.1\outexample.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\obj\Debug\netcoreapp3.1\outexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\obj\Debug\netcoreapp3.1\outexample.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\obj\Debug\netcoreapp3.1\outexample.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\obj\Debug\netcoreapp3.1\outexample.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\obj\Debug\netcoreapp3.1\outexample.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\obj\Debug\netcoreapp3.1\outexample.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\outexample\outexample\obj\Debug\netcoreapp3.1\outexample.genruntimeconfig.cache

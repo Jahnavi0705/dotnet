@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\bin\Debug\netcoreapp3.1\Objectclass.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\bin\Debug\netcoreapp3.1\Objectclass.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\bin\Debug\netcoreapp3.1\Objectclass.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\bin\Debug\netcoreapp3.1\Objectclass.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\bin\Debug\netcoreapp3.1\Objectclass.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\bin\Debug\netcoreapp3.1\Objectclass.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\obj\Debug\netcoreapp3.1\Objectclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\obj\Debug\netcoreapp3.1\Objectclass.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\obj\Debug\netcoreapp3.1\Objectclass.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\obj\Debug\netcoreapp3.1\Objectclass.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\obj\Debug\netcoreapp3.1\Objectclass.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\obj\Debug\netcoreapp3.1\Objectclass.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Objectclass\Objectclass\obj\Debug\netcoreapp3.1\Objectclass.genruntimeconfig.cache

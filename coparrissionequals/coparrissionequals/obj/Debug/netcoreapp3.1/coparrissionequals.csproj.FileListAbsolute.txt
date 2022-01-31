@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\obj\Debug\netcoreapp3.1\coparrissionequals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\obj\Debug\netcoreapp3.1\coparrissionequals.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\obj\Debug\netcoreapp3.1\coparrissionequals.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\obj\Debug\netcoreapp3.1\coparrissionequals.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\bin\Debug\netcoreapp3.1\coparrissionequals.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\bin\Debug\netcoreapp3.1\coparrissionequals.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\bin\Debug\netcoreapp3.1\coparrissionequals.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\bin\Debug\netcoreapp3.1\coparrissionequals.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\bin\Debug\netcoreapp3.1\coparrissionequals.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\bin\Debug\netcoreapp3.1\coparrissionequals.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\obj\Debug\netcoreapp3.1\coparrissionequals.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\obj\Debug\netcoreapp3.1\coparrissionequals.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\coparrissionequals\coparrissionequals\obj\Debug\netcoreapp3.1\coparrissionequals.genruntimeconfig.cache
