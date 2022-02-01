@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\bin\Debug\netcoreapp3.1\duplicate value arra.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\bin\Debug\netcoreapp3.1\duplicate value arra.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\bin\Debug\netcoreapp3.1\duplicate value arra.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\bin\Debug\netcoreapp3.1\duplicate value arra.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\bin\Debug\netcoreapp3.1\duplicate value arra.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\bin\Debug\netcoreapp3.1\duplicate value arra.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\obj\Debug\netcoreapp3.1\duplicate value arra.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\obj\Debug\netcoreapp3.1\duplicate value arra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\obj\Debug\netcoreapp3.1\duplicate value arra.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\obj\Debug\netcoreapp3.1\duplicate value arra.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\obj\Debug\netcoreapp3.1\duplicate value arra.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\obj\Debug\netcoreapp3.1\duplicate value arra.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\obj\Debug\netcoreapp3.1\duplicate value arra.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\duplicate value arra\duplicate value arra\obj\Debug\netcoreapp3.1\duplicate value arra.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\factorial\factorial\obj\Debug\netcoreapp3.1\factorial.csproj.CoreCompileInputs.cache

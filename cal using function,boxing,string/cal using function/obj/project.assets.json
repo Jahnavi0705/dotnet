@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\cal using function\\cal using function\\cal using function.csproj",
+      "projectUniqueName": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\cal using function,boxing,string\\cal using function\\cal using function.csproj",
       "projectName": "cal using function",
-      "projectPath": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\cal using function\\cal using function\\cal using function.csproj",
+      "projectPath": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\cal using function,boxing,string\\cal using function\\cal using function.csproj",
       "packagesPath": "C:\\Users\\Jahnavi Kolukuluri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\cal using function\\cal using function\\obj\\",
+      "outputPath": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\cal using function,boxing,string\\cal using function\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jahnavi Kolukuluri\\AppData\\Roaming\\NuGet\\NuGet.Config",

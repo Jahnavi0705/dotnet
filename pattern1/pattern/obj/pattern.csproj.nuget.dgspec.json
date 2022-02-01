@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern\\pattern\\pattern.csproj": {}
+    "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern1\\pattern\\pattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern\\pattern\\pattern.csproj": {
+    "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern1\\pattern\\pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern\\pattern\\pattern.csproj",
+        "projectUniqueName": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern1\\pattern\\pattern.csproj",
         "projectName": "pattern",
-        "projectPath": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern\\pattern\\pattern.csproj",
+        "projectPath": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern1\\pattern\\pattern.csproj",
         "packagesPath": "C:\\Users\\Jahnavi Kolukuluri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern\\pattern\\obj\\",
+        "outputPath": "C:\\Users\\Jahnavi Kolukuluri\\OneDrive\\Desktop\\training\\pattern1\\pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jahnavi Kolukuluri\\AppData\\Roaming\\NuGet\\NuGet.Config",

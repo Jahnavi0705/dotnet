@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\bin\Debug\netcoreapp3.1\call by value cal by ref.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\bin\Debug\netcoreapp3.1\call by value cal by ref.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\bin\Debug\netcoreapp3.1\call by value cal by ref.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\bin\Debug\netcoreapp3.1\call by value cal by ref.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\bin\Debug\netcoreapp3.1\call by value cal by ref.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\bin\Debug\netcoreapp3.1\call by value cal by ref.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\obj\Debug\netcoreapp3.1\call by value cal by ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\obj\Debug\netcoreapp3.1\call by value cal by ref.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\obj\Debug\netcoreapp3.1\call by value cal by ref.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\obj\Debug\netcoreapp3.1\call by value cal by ref.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\obj\Debug\netcoreapp3.1\call by value cal by ref.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\obj\Debug\netcoreapp3.1\call by value cal by ref.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\call by value cal by ref\call by value cal by ref\obj\Debug\netcoreapp3.1\call by value cal by ref.genruntimeconfig.cache

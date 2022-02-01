@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\bin\Debug\netcoreapp3.1\numberpattern.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\bin\Debug\netcoreapp3.1\numberpattern.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\bin\Debug\netcoreapp3.1\numberpattern.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\bin\Debug\netcoreapp3.1\numberpattern.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\bin\Debug\netcoreapp3.1\numberpattern.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\bin\Debug\netcoreapp3.1\numberpattern.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\obj\Debug\netcoreapp3.1\numberpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\obj\Debug\netcoreapp3.1\numberpattern.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\obj\Debug\netcoreapp3.1\numberpattern.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\obj\Debug\netcoreapp3.1\numberpattern.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\obj\Debug\netcoreapp3.1\numberpattern.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\obj\Debug\netcoreapp3.1\numberpattern.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\numberpattern\numberpattern\obj\Debug\netcoreapp3.1\numberpattern.genruntimeconfig.cache

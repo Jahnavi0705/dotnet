@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\bin\Debug\netcoreapp3.1\display natural no and sum.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\bin\Debug\netcoreapp3.1\display natural no and sum.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\bin\Debug\netcoreapp3.1\display natural no and sum.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\bin\Debug\netcoreapp3.1\display natural no and sum.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\bin\Debug\netcoreapp3.1\display natural no and sum.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\bin\Debug\netcoreapp3.1\display natural no and sum.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\obj\Debug\netcoreapp3.1\display natural no and sum.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\obj\Debug\netcoreapp3.1\display natural no and sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\obj\Debug\netcoreapp3.1\display natural no and sum.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\obj\Debug\netcoreapp3.1\display natural no and sum.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\obj\Debug\netcoreapp3.1\display natural no and sum.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\obj\Debug\netcoreapp3.1\display natural no and sum.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\obj\Debug\netcoreapp3.1\display natural no and sum.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\display natural no and sum\display natural no and sum\obj\Debug\netcoreapp3.1\display natural no and sum.genruntimeconfig.cache

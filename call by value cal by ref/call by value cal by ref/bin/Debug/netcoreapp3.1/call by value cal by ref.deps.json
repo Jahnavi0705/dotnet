@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "call by value cal by ref/1.0.0": {
+        "runtime": {
+          "call by value cal by ref.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "call by value cal by ref/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
