@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\bin\Debug\netcoreapp3.1\count alp_dig_spchar.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\bin\Debug\netcoreapp3.1\count alp_dig_spchar.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\bin\Debug\netcoreapp3.1\count alp_dig_spchar.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\bin\Debug\netcoreapp3.1\count alp_dig_spchar.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\bin\Debug\netcoreapp3.1\count alp_dig_spchar.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\bin\Debug\netcoreapp3.1\count alp_dig_spchar.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\obj\Debug\netcoreapp3.1\count alp_dig_spchar.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\obj\Debug\netcoreapp3.1\count alp_dig_spchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\obj\Debug\netcoreapp3.1\count alp_dig_spchar.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\obj\Debug\netcoreapp3.1\count alp_dig_spchar.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\obj\Debug\netcoreapp3.1\count alp_dig_spchar.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\obj\Debug\netcoreapp3.1\count alp_dig_spchar.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\obj\Debug\netcoreapp3.1\count alp_dig_spchar.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count alp_dig_spchar\count alp_dig_spchar\obj\Debug\netcoreapp3.1\count alp_dig_spchar.genruntimeconfig.cache

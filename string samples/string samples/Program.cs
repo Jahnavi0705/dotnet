@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace string_samples
 {
@@ -7,14 +9,14 @@ namespace string_samples
         static void Main(string[] args)
         {
             string s = "some value";
-            s = "Vikash";
+            s = "Jahnavi";
             //replace
             //split
             //startswith
             //substring
             //tolower
             //toupper
-            s = s.Replace("Vikash", "1,2,3");
+            s = s.Replace("Jahnavi", "1,2,3");
             var valuearray = s.Split(',');
             Console.WriteLine("Values after spliting");
             for (int i = 0; i < valuearray.Length; i++)

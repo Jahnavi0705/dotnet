@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\bin\Debug\netcoreapp3.1\string samples.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\bin\Debug\netcoreapp3.1\string samples.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\bin\Debug\netcoreapp3.1\string samples.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\bin\Debug\netcoreapp3.1\string samples.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\bin\Debug\netcoreapp3.1\string samples.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\bin\Debug\netcoreapp3.1\string samples.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\obj\Debug\netcoreapp3.1\string samples.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\obj\Debug\netcoreapp3.1\string samples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\obj\Debug\netcoreapp3.1\string samples.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\obj\Debug\netcoreapp3.1\string samples.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\obj\Debug\netcoreapp3.1\string samples.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\obj\Debug\netcoreapp3.1\string samples.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\obj\Debug\netcoreapp3.1\string samples.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\string samples\string samples\obj\Debug\netcoreapp3.1\string samples.genruntimeconfig.cache

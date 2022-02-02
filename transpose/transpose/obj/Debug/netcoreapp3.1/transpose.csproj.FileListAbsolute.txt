@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\bin\Debug\netcoreapp3.1\transpose.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\bin\Debug\netcoreapp3.1\transpose.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\bin\Debug\netcoreapp3.1\transpose.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\bin\Debug\netcoreapp3.1\transpose.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\bin\Debug\netcoreapp3.1\transpose.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\bin\Debug\netcoreapp3.1\transpose.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\obj\Debug\netcoreapp3.1\transpose.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\obj\Debug\netcoreapp3.1\transpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\obj\Debug\netcoreapp3.1\transpose.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\obj\Debug\netcoreapp3.1\transpose.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\obj\Debug\netcoreapp3.1\transpose.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\obj\Debug\netcoreapp3.1\transpose.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\obj\Debug\netcoreapp3.1\transpose.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\transpose\transpose\obj\Debug\netcoreapp3.1\transpose.genruntimeconfig.cache

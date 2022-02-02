@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\bin\Debug\netcoreapp3.1\student details.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\bin\Debug\netcoreapp3.1\student details.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\bin\Debug\netcoreapp3.1\student details.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\bin\Debug\netcoreapp3.1\student details.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\bin\Debug\netcoreapp3.1\student details.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\bin\Debug\netcoreapp3.1\student details.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\obj\Debug\netcoreapp3.1\student details.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\obj\Debug\netcoreapp3.1\student details.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\obj\Debug\netcoreapp3.1\student details.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\obj\Debug\netcoreapp3.1\student details.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\obj\Debug\netcoreapp3.1\student details.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\obj\Debug\netcoreapp3.1\student details.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\obj\Debug\netcoreapp3.1\student details.genruntimeconfig.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\student details\student details\obj\Debug\netcoreapp3.1\student details.csproj.AssemblyReference.cache
