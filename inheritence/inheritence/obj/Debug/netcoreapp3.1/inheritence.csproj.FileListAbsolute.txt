@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\bin\Debug\netcoreapp3.1\inheritence.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\inheritence\inheritence\obj\Debug\netcoreapp3.1\inheritence.genruntimeconfig.cache
