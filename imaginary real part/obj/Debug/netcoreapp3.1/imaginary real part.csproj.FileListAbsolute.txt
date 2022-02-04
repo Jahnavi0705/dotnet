@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\bin\Debug\netcoreapp3.1\imaginary real part.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\bin\Debug\netcoreapp3.1\imaginary real part.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\bin\Debug\netcoreapp3.1\imaginary real part.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\bin\Debug\netcoreapp3.1\imaginary real part.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\bin\Debug\netcoreapp3.1\imaginary real part.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\bin\Debug\netcoreapp3.1\imaginary real part.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\obj\Debug\netcoreapp3.1\imaginary real part.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\obj\Debug\netcoreapp3.1\imaginary real part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\obj\Debug\netcoreapp3.1\imaginary real part.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\obj\Debug\netcoreapp3.1\imaginary real part.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\obj\Debug\netcoreapp3.1\imaginary real part.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\obj\Debug\netcoreapp3.1\imaginary real part.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\obj\Debug\netcoreapp3.1\imaginary real part.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\imaginary real part\obj\Debug\netcoreapp3.1\imaginary real part.genruntimeconfig.cache
