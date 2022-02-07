@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.genruntimeconfig.cache
