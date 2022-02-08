@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\obj\Debug\netcoreapp3.1\HandlingRegex.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\obj\Debug\netcoreapp3.1\HandlingRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\obj\Debug\netcoreapp3.1\HandlingRegex.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\obj\Debug\netcoreapp3.1\HandlingRegex.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\obj\Debug\netcoreapp3.1\HandlingRegex.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\bin\Debug\netcoreapp3.1\HandlingRegex.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\bin\Debug\netcoreapp3.1\HandlingRegex.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\bin\Debug\netcoreapp3.1\HandlingRegex.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\bin\Debug\netcoreapp3.1\HandlingRegex.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\bin\Debug\netcoreapp3.1\HandlingRegex.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\bin\Debug\netcoreapp3.1\HandlingRegex.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\obj\Debug\netcoreapp3.1\HandlingRegex.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\obj\Debug\netcoreapp3.1\HandlingRegex.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\HandlingRegex\obj\Debug\netcoreapp3.1\HandlingRegex.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\bin\Debug\netcoreapp3.1\celsius.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\bin\Debug\netcoreapp3.1\celsius.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\bin\Debug\netcoreapp3.1\celsius.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\bin\Debug\netcoreapp3.1\celsius.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\bin\Debug\netcoreapp3.1\celsius.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\bin\Debug\netcoreapp3.1\celsius.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\obj\Debug\netcoreapp3.1\celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\obj\Debug\netcoreapp3.1\celsius.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\obj\Debug\netcoreapp3.1\celsius.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\obj\Debug\netcoreapp3.1\celsius.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\obj\Debug\netcoreapp3.1\celsius.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\obj\Debug\netcoreapp3.1\celsius.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\celsius\obj\Debug\netcoreapp3.1\celsius.genruntimeconfig.cache
