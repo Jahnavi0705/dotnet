@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\bin\Debug\netcoreapp3.1\uppercase.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\bin\Debug\netcoreapp3.1\uppercase.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\bin\Debug\netcoreapp3.1\uppercase.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\bin\Debug\netcoreapp3.1\uppercase.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\bin\Debug\netcoreapp3.1\uppercase.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\bin\Debug\netcoreapp3.1\uppercase.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\obj\Debug\netcoreapp3.1\uppercase.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\obj\Debug\netcoreapp3.1\uppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\obj\Debug\netcoreapp3.1\uppercase.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\obj\Debug\netcoreapp3.1\uppercase.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\obj\Debug\netcoreapp3.1\uppercase.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\obj\Debug\netcoreapp3.1\uppercase.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\obj\Debug\netcoreapp3.1\uppercase.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\uppercase\obj\Debug\netcoreapp3.1\uppercase.genruntimeconfig.cache

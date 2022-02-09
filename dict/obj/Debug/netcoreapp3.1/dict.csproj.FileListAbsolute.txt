@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\obj\Debug\netcoreapp3.1\dict.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\obj\Debug\netcoreapp3.1\dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\obj\Debug\netcoreapp3.1\dict.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\obj\Debug\netcoreapp3.1\dict.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\obj\Debug\netcoreapp3.1\dict.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\bin\Debug\netcoreapp3.1\dict.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\bin\Debug\netcoreapp3.1\dict.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\bin\Debug\netcoreapp3.1\dict.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\bin\Debug\netcoreapp3.1\dict.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\bin\Debug\netcoreapp3.1\dict.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\bin\Debug\netcoreapp3.1\dict.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\obj\Debug\netcoreapp3.1\dict.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\obj\Debug\netcoreapp3.1\dict.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\dict\obj\Debug\netcoreapp3.1\dict.genruntimeconfig.cache
