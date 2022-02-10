@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\bin\Debug\netcoreapp3.1\multiheading.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\bin\Debug\netcoreapp3.1\multiheading.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\bin\Debug\netcoreapp3.1\multiheading.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\bin\Debug\netcoreapp3.1\multiheading.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\bin\Debug\netcoreapp3.1\multiheading.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\bin\Debug\netcoreapp3.1\multiheading.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\obj\Debug\netcoreapp3.1\multiheading.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\obj\Debug\netcoreapp3.1\multiheading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\obj\Debug\netcoreapp3.1\multiheading.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\obj\Debug\netcoreapp3.1\multiheading.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\obj\Debug\netcoreapp3.1\multiheading.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\obj\Debug\netcoreapp3.1\multiheading.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\obj\Debug\netcoreapp3.1\multiheading.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\multiheading\obj\Debug\netcoreapp3.1\multiheading.genruntimeconfig.cache

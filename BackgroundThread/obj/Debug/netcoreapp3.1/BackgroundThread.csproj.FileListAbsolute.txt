@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\bin\Debug\netcoreapp3.1\BackgroundThread.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\bin\Debug\netcoreapp3.1\BackgroundThread.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\bin\Debug\netcoreapp3.1\BackgroundThread.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\bin\Debug\netcoreapp3.1\BackgroundThread.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\bin\Debug\netcoreapp3.1\BackgroundThread.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\bin\Debug\netcoreapp3.1\BackgroundThread.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\obj\Debug\netcoreapp3.1\BackgroundThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\obj\Debug\netcoreapp3.1\BackgroundThread.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\obj\Debug\netcoreapp3.1\BackgroundThread.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\obj\Debug\netcoreapp3.1\BackgroundThread.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\obj\Debug\netcoreapp3.1\BackgroundThread.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\obj\Debug\netcoreapp3.1\BackgroundThread.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\BackgroundThread\obj\Debug\netcoreapp3.1\BackgroundThread.genruntimeconfig.cache
