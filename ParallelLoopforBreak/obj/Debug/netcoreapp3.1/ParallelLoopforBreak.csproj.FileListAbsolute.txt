@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\obj\Debug\netcoreapp3.1\ParallelLoopforBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\obj\Debug\netcoreapp3.1\ParallelLoopforBreak.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\obj\Debug\netcoreapp3.1\ParallelLoopforBreak.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\obj\Debug\netcoreapp3.1\ParallelLoopforBreak.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\bin\Debug\netcoreapp3.1\ParallelLoopforBreak.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\bin\Debug\netcoreapp3.1\ParallelLoopforBreak.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\bin\Debug\netcoreapp3.1\ParallelLoopforBreak.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\bin\Debug\netcoreapp3.1\ParallelLoopforBreak.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\bin\Debug\netcoreapp3.1\ParallelLoopforBreak.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\bin\Debug\netcoreapp3.1\ParallelLoopforBreak.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\obj\Debug\netcoreapp3.1\ParallelLoopforBreak.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\obj\Debug\netcoreapp3.1\ParallelLoopforBreak.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\obj\Debug\netcoreapp3.1\ParallelLoopforBreak.genruntimeconfig.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelLoopforBreak\obj\Debug\netcoreapp3.1\ParallelLoopforBreak.csproj.AssemblyReference.cache

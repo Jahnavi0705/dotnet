@@ -1,0 +1,4 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\ParallelFor\obj\Debug\netcoreapp3.1\ParallelFor.csproj.CoreCompileInputs.cache
