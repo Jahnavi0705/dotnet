@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\obj\Debug\netcoreapp3.1\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache

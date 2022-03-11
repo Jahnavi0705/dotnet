@@ -1,0 +1,14 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\bin\Debug\netcoreapp3.1\FileHandling.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\FileHandling\obj\Debug\netcoreapp3.1\FileHandling.genruntimeconfig.cache

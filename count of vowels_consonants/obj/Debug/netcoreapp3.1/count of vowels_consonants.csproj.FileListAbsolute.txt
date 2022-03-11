@@ -1,0 +1,13 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\bin\Debug\netcoreapp3.1\count of vowels_consonants.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\bin\Debug\netcoreapp3.1\count of vowels_consonants.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\bin\Debug\netcoreapp3.1\count of vowels_consonants.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\bin\Debug\netcoreapp3.1\count of vowels_consonants.runtimeconfig.dev.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\bin\Debug\netcoreapp3.1\count of vowels_consonants.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\bin\Debug\netcoreapp3.1\count of vowels_consonants.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\obj\Debug\netcoreapp3.1\count of vowels_consonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\obj\Debug\netcoreapp3.1\count of vowels_consonants.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\obj\Debug\netcoreapp3.1\count of vowels_consonants.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\obj\Debug\netcoreapp3.1\count of vowels_consonants.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\obj\Debug\netcoreapp3.1\count of vowels_consonants.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\obj\Debug\netcoreapp3.1\count of vowels_consonants.pdb
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\count of vowels_consonants\obj\Debug\netcoreapp3.1\count of vowels_consonants.genruntimeconfig.cache
