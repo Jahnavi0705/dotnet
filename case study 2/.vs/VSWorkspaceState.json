@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
     "\\Controllers",
-    "\\Properties"
+    "\\Models",
+    "\\Properties",
+    "\\View Models"
   ],
-  "SelectedNode": "\\Startup.cs",
+  "SelectedNode": "\\case study 2.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -62,3 +62,11 @@ C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\case study 2\bin\Debug\net
 C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\case study 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\case study 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\training\case study 2\obj\Debug\netcoreapp3.1\case study 2.csproj.CopyComplete
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\case study 2\obj\Debug\netcoreapp3.1\case study 2.csproj.AssemblyReference.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\case study 2\obj\Debug\netcoreapp3.1\case study 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\case study 2\obj\Debug\netcoreapp3.1\case study 2.AssemblyInfoInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\case study 2\obj\Debug\netcoreapp3.1\case study 2.AssemblyInfo.cs
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\case study 2\obj\Debug\netcoreapp3.1\case study 2.csproj.CoreCompileInputs.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\case study 2\obj\Debug\netcoreapp3.1\case study 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\case study 2\obj\Debug\netcoreapp3.1\case study 2.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\case study 2\obj\Debug\netcoreapp3.1\case study 2.pdb

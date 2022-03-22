@@ -1,0 +1,7 @@
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\Ecommerce\obj\Release\netcoreapp3.1\PubTmp\Out\Ecommerce.exe
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\Ecommerce\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\Ecommerce\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\Ecommerce\obj\Release\netcoreapp3.1\PubTmp\Out\Ecommerce.dll
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\Ecommerce\obj\Release\netcoreapp3.1\PubTmp\Out\Ecommerce.deps.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\Ecommerce\obj\Release\netcoreapp3.1\PubTmp\Out\Ecommerce.runtimeconfig.json
+C:\Users\Jahnavi Kolukuluri\OneDrive\Desktop\TRAINING CAPG\Ecommerce\obj\Release\netcoreapp3.1\PubTmp\Out\Ecommerce.pdb
