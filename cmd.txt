@@ -1,2 +1,1 @@
-Scaffold-dbcontext "Server=DESKTOP-940LHSR\SQLEXPRESS;Database=EcommerceDb;Integrated Security=True" 
-Microsoft.EntityFramework.SqlServer --OutputDir Models
+Scaffold-dbcontext "Server=.\SQLEXPRESS;Database=EcommerceDb;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
